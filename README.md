@@ -4,7 +4,7 @@ I'm passionate about becoming a **full-stack developer** and continuously expand
 
 ---
 
-### 🌱 Currently Learning:
+### 🌱 Currently Studying at ITLA
 - **Software Architecture**
 - **C#** (actively working on improving my skills)
 
@@ -35,6 +35,7 @@ I'm passionate about becoming a **full-stack developer** and continuously expand
 
 ### ⚡ Fun Fact:
 I’m an avid reader, and it's one of my favorite activities outside of coding!
+
 
 
 
