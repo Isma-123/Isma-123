@@ -1,47 +1,81 @@
-<h1 align="center">Abdias Ismael Feliz Segura</h1>
+<div align="center">
 
-<p align="center">
-  <code>Backend Developer</code> &nbsp;·&nbsp; <code>.NET</code> &nbsp;·&nbsp; <code>Microservices</code> &nbsp;·&nbsp; <code>Clean Architecture</code>
-</p>
+# Abdias Ismael Feliz Segura
 
-<p align="center">
-  Building scalable, clean, and efficient backend systems.<br/>
-  Passionate about distributed systems and event-driven design.
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;.NET+%7C+Microservices+%7C+Clean+Arch;Building+systems+that+scale+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## ⚙️ Backend
+## 🧠 About me
 
-| Área | Tecnologías |
-|------|------------|
-| **Lenguaje** | C# |
-| **Framework** | .NET / ASP.NET Core |
-| **APIs** | REST · gRPC · GraphQL |
-| **Patrones** | CQRS · MediatR · Clean Architecture · DI |
-| **Bases de datos** | SQL Server · Oracle · Entity Framework |
-| **Mensajería** | RabbitMQ (Event-Driven) |
-| **Seguridad** | JWT Authentication |
-| **Arquitectura** | Microservices |
-
-## 🌐 Frontend
-
-`HTML5` `CSS3` `Tailwind CSS` `JavaScript` `React`
-
-## 🛠️ Herramientas
-
-`Git & GitHub` `Docker` `Azure DevOps` `Swagger / OpenAPI` `Visual Studio` `VS Code`
+```text
+🏗️  Focused on backend architecture and distributed systems
+⚙️  Clean Architecture + CQRS as a way of life
+📡  Event-driven communication with RabbitMQ
+☁️  Deploying to Azure with Docker & CI/CD
+📖  Always learning: System Design · Cloud · Patterns
+```
 
 ---
 
-## 📖 Actualmente aprendiendo
+## ⚡ Tech Stack
 
-- 🔹 Advanced Microservices
-- 🔹 System Design & Scalability
-- 🔹 Cloud Architecture (Azure)
-- 🔹 Design Patterns
+**Backend**
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**Databases**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+**Tools & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
-> *Focused on building backend systems that scale — one clean layer at a time.*
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📖 Currently learning
+
+![Microservices](https://img.shields.io/badge/Advanced_Microservices-in_progress-6C63FF?style=flat-square)
+![System Design](https://img.shields.io/badge/System_Design-in_progress-6C63FF?style=flat-square)
+![Azure](https://img.shields.io/badge/Cloud_Architecture_Azure-in_progress-0078D7?style=flat-square)
+![Patterns](https://img.shields.io/badge/Design_Patterns-in_progress-239120?style=flat-square)
+
+---
+
+<div align="center">
+  <i>"Clean code, scalable systems, zero excuses."</i>
+</div>
 
