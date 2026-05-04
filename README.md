@@ -2,31 +2,30 @@
 
 # Abdias Ismael Feliz Segura
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;.NET+%7C+Microservices+%7C+Clean+Arch;Building+systems+that+scale+%E2%9A%99%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Backend+Developer;.NET+%7C+Microservices+%7C+Clean+Arch;Building+systems+that+scale;Event-Driven+%7C+RabbitMQ+%7C+CQRS)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧠 About me
+## About me
 
 ```text
-🏗️  Focused on backend architecture and distributed systems
-⚙️  Clean Architecture + CQRS as a way of life
-📡  Event-driven communication with RabbitMQ
-☁️  Deploying to Azure with Docker & CI/CD
-📖  Always learning: System Design · Cloud · Patterns
+Focused on backend architecture and distributed systems
+Clean Architecture + CQRS as a way of life
+Event-driven communication with RabbitMQ
+Deploying to Azure with Docker and CI/CD
+Always learning: System Design · Cloud · Patterns
 ```
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
 **Backend**
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -50,12 +49,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -66,11 +64,11 @@
 
 ---
 
-## 📖 Currently learning
+## Currently learning
 
 ![Microservices](https://img.shields.io/badge/Advanced_Microservices-in_progress-6C63FF?style=flat-square)
 ![System Design](https://img.shields.io/badge/System_Design-in_progress-6C63FF?style=flat-square)
-![Azure](https://img.shields.io/badge/Cloud_Architecture_Azure-in_progress-0078D7?style=flat-square)
+![Azure](https://img.shields.io/badge/Cloud_Architecture-in_progress-0078D7?style=flat-square)
 ![Patterns](https://img.shields.io/badge/Design_Patterns-in_progress-239120?style=flat-square)
 
 ---
@@ -78,4 +76,3 @@
 <div align="center">
   <i>"Clean code, scalable systems, zero excuses."</i>
 </div>
-
