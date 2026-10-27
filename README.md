@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h1 text-align="center"> Tech Stack</h1>
 
 <p align="center">
   <!-- Backend -->
