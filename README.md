@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+Developer;.NET+%7C+Microservices+%7C+Clean+Architecture;RESTful+API+%7C+gRPC+%7C+GraphQL;Event-Driven+%7C+RabbitMQ+%7C+CQRS;API+Gateway+%7C+SignalR+%7C+JWT;Node.js+%7C+Express.js;React+%7C+TypeScript+%7C+JavaScript;SQL+Server+%7C+Redis+%7C+MongoDB;Learning+System+Design;Building+systems+that+scale" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Backend+Developer;.NET+%7C+Microservices+%7C+Clean+Architecture;RESTful+API+%7C+gRPC+%7C+GraphQL;Event-Driven+%7C+RabbitMQ+%7C+CQRS;API+Gateway+%7C+SignalR+%7C+JWT;Node.js+%7C+Express.js;React+%7C+TypeScript+%7C+JavaScript;SQL+Server+%7C+Redis+%7C+MongoDB;Docker+%7C+Kubernetes+%7C+AWS;Learning+System+Design;Building+systems+that+scale" alt="Typing SVG" />
   </a>
 </p>
 
-<h1 align="center"> Tech Stack</h1>
+<h1 align="center">Tech Stack</h1>
 
 <p align="center">
   <!-- Backend -->
@@ -45,4 +45,11 @@
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+<p align="center">
+  <!-- DevOps & Cloud -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
